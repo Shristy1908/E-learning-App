@@ -16,7 +16,7 @@ function Nav() {
                 alt="logo"
               />
             </Link>
-            <h4>Coding Ninjas</h4>
+            <h4>E-Learning App</h4>
           </div>
           <div className={style.nav_details}>
             <button>
