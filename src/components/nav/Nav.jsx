@@ -12,7 +12,7 @@ function Nav() {
             <Link to="/">
               <img
                 className={style.logo}
-                src="https://files.codingninjas.in/pl-ninja-16706.svg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-0ri8Jyvgn20ACPcbMF_-gi0HVhHzhy4jQ&s"
                 alt="logo"
               />
             </Link>
